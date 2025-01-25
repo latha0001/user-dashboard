@@ -31,6 +31,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Setup Instructions
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/latha0001/user-dashboard
 
 
